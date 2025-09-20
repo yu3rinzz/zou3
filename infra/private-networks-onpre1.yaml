@@ -1,0 +1,117 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'VPC with EC2 Instances and SSM access via VPC Endpoint'
+
+Resources:
+  onpreVPC:
+    Type: 'AWS::EC2::VPC'
+    Properties: 
+      CidrBlock: '192.168.20.0/24'
+      EnableDnsSupport: true
+      EnableDnsHostnames: true
+      Tags:
+        - Key: Name
+          Value: onpreVPC
+
+  Subnet1:
+    Type: 'AWS::EC2::Subnet'
+    Properties:
+      VpcId: !Ref onpreVPC
+      CidrBlock: '192.168.20.0/26'
+      AvailabilityZone: 'ap-northeast-1a'
+      MapPublicIpOnLaunch: false
+      Tags:
+        - Key: Name
+          Value: Subnet1-EC2
+
+  Subnet2:
+    Type: 'AWS::EC2::Subnet'
+    Properties:
+      VpcId: !Ref onpreVPC
+      # 隣接したアドレス範囲で作成できなかったので修正
+      CidrBlock: '192.168.20.144/28'
+      #CidrBlock: '192.168.20.64/28'
+      AvailabilityZone: 'ap-northeast-1a'
+      MapPublicIpOnLaunch: false
+      Tags:
+        - Key: Name
+          Value: Subnet2-TransitGateway
+
+  Subnet3:
+    Type: 'AWS::EC2::Subnet'
+    Properties:
+      VpcId: !Ref onpreVPC
+      CidrBlock: '192.168.20.80/26'
+      AvailabilityZone: 'ap-northeast-1c'
+      MapPublicIpOnLaunch: false
+      Tags:
+        - Key: Name
+          Value: Subnet3-EC2
+
+  VPCEndpointSSM:
+    Type: 'AWS::EC2::VPCEndpoint'
+    Properties:
+      VpcId: !Ref onpreVPC
+      ServiceName: 'com.amazonaws.ap-northeast-1.ssm'
+      VpcEndpointType: Interface
+      SubnetIds:
+        - !Ref Subnet1
+        - !Ref Subnet3
+      PrivateDnsEnabled: true
+      SecurityGroupIds:
+        - !Ref VPCEndpointSecurityGroup
+
+  VPCEndpointSSMMessages:
+    Type: 'AWS::EC2::VPCEndpoint'
+    Properties:
+      VpcId: !Ref onpreVPC
+      ServiceName: 'com.amazonaws.ap-northeast-1.ssmmessages'
+      VpcEndpointType: Interface
+      SubnetIds:
+        - !Ref Subnet1
+        - !Ref Subnet3
+      PrivateDnsEnabled: true
+      SecurityGroupIds:
+        - !Ref VPCEndpointSecurityGroup
+
+  VPCEndpointEC2:
+    Type: 'AWS::EC2::VPCEndpoint'
+    Properties:
+      VpcId: !Ref onpreVPC
+      ServiceName: 'com.amazonaws.ap-northeast-1.ec2'
+      VpcEndpointType: Interface
+      SubnetIds:
+        - !Ref Subnet1
+        - !Ref Subnet3
+      PrivateDnsEnabled: true
+      SecurityGroupIds:
+        - !Ref VPCEndpointSecurityGroup
+
+  VPCEndpointSecurityGroup:
+    Type: 'AWS::EC2::SecurityGroup'
+    Properties:
+      GroupDescription: 'Security group for VPC Endpoints'
+      VpcId: !Ref onpreVPC
+      SecurityGroupIngress:
+        - IpProtocol: -1
+          CidrIp: '192.168.20.0/24'
+      Tags:
+        - Key: Name
+          Value: VPC-Endpoint-SG
+
+Outputs:
+  VPCId:
+    Description: 'VPC ID'
+    Value: !Ref onpreVPC
+
+  Subnet1Id:
+    Description: 'Subnet 1 ID'
+    Value: !Ref Subnet1
+    Export:
+      Name: onpredaiSubnet1ID  # この名前でエクスポートします
+  Subnet2Id:
+    Description: 'Subnet 2 ID'
+    Value: !Ref Subnet2
+
+  Subnet3Id:
+    Description: 'Subnet 3 ID'
+    Value: !Ref Subnet3
