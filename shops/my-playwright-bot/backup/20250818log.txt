@@ -1,0 +1,428 @@
+46 m96900457030
+10
+10時台なので値下げ処理をスキップします。待機します。
+9 m19646357504
+10
+10時台なので値下げ処理をスキップします。待機します。
+109 m58198557228
+11
+待機開始: 2025-08-18 11:05:27
+待機終了: 2025-08-18 11:27:46
+商品番号: m58198557228 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m58198557228
+
+DevTools listening on ws://127.0.0.1:51781/devtools/browser/66b30f82-b5d2-4cad-b224-42b389acca04
+値下げページを開きました: https://jp.mercari.com/sell/edit/m58198557228
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755484075.294296    3400 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[12976:10976:0818/112755.361:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 4480
+変更後の価格: 4380
+保存ボタン（変更する）をクリックしました。
+=================================
+16 m49339558925
+11
+待機開始: 2025-08-18 11:28:07
+待機終了: 2025-08-18 11:49:40
+商品番号: m49339558925 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m49339558925
+
+DevTools listening on ws://127.0.0.1:51955/devtools/browser/3396daa6-fd7f-42a9-8c25-5ff6ef5b5f37
+値下げページを開きました: https://jp.mercari.com/sell/edit/m49339558925
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755485388.354668    1788 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[3936:12324:0818/114948.440:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 6000
+変更後の価格: 5900
+保存ボタン（変更する）をクリックしました。
+=================================
+39 m56469063325
+11
+待機開始: 2025-08-18 11:50:00
+待機終了: 2025-08-18 12:12:24
+商品番号: m56469063325 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m56469063325
+
+DevTools listening on ws://127.0.0.1:52116/devtools/browser/8821d6c7-a215-4508-ba3e-ec903d6656b3
+値下げページを開きました: https://jp.mercari.com/sell/edit/m56469063325
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755486755.395346    3804 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[10136:3036:0818/121235.489:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: QUOTA_EXCEEDED
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 6000
+変更後の価格: 5900
+保存ボタン（変更する）をクリックしました。
+=================================
+61 m60042008158
+12
+待機開始: 2025-08-18 12:12:45
+待機終了: 2025-08-18 12:31:12
+商品番号: m60042008158 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m60042008158
+
+DevTools listening on ws://127.0.0.1:52284/devtools/browser/b4da2277-8457-4a6f-bba4-061f42591b33
+値下げページを開きました: https://jp.mercari.com/sell/edit/m60042008158
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755487883.335508   14080 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[10252:14088:0818/123123.414:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 3580
+変更後の価格: 3480
+保存ボタン（変更する）をクリックしました。
+=================================
+11 m79780469421
+12
+待機開始: 2025-08-18 12:31:36
+待機終了: 2025-08-18 12:59:42
+商品番号: m79780469421 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m79780469421
+
+DevTools listening on ws://127.0.0.1:52456/devtools/browser/dbee8f2d-0802-47bf-87dc-fa79c337657d
+値下げページを開きました: https://jp.mercari.com/sell/edit/m79780469421
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755489592.865835   13084 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[13528:7288:0818/125952.932:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 4000
+変更後の価格: 3900
+保存ボタン（変更する）をクリックしました。
+=================================
+29 m68650961007
+13
+待機開始: 2025-08-18 13:00:04
+待機終了: 2025-08-18 13:21:44
+商品番号: m68650961007 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m68650961007
+
+DevTools listening on ws://127.0.0.1:52628/devtools/browser/5fd1451e-de22-4b34-89e5-8bd6b18a9acf
+値下げページを開きました: https://jp.mercari.com/sell/edit/m68650961007
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755490912.950719   12428 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[7856:4376:0818/132153.063:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 13100
+変更後の価格: 13000
+保存ボタン（変更する）をクリックしました。
+=================================
+37 m41642124665
+13
+待機開始: 2025-08-18 13:22:05
+待機終了: 2025-08-18 13:47:46
+商品番号: m41642124665 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m41642124665
+
+DevTools listening on ws://127.0.0.1:52784/devtools/browser/b82e0138-a9b8-46c3-8657-c41f8e6cc5f6
+値下げページを開きました: https://jp.mercari.com/sell/edit/m41642124665
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755492477.376160   14416 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[14572:11348:0818/134757.410:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 4880
+変更後の価格: 4780
+保存ボタン（変更する）をクリックしました。
+=================================
+40 m27311989967
+13
+待機開始: 2025-08-18 13:48:06
+待機終了: 2025-08-18 14:12:31
+商品番号: m27311989967 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m27311989967
+
+DevTools listening on ws://127.0.0.1:52948/devtools/browser/41ce9048-5542-484e-b76a-b6ed36fd839b
+値下げページを開きました: https://jp.mercari.com/sell/edit/m27311989967
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755493959.202919   14480 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[10140:10144:0818/141239.310:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: QUOTA_EXCEEDED
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 5080
+変更後の価格: 4980
+保存ボタン（変更する）をクリックしました。
+=================================
+15 m85313020745
+14
+14時台なので値下げ処理をスキップします。待機します。
+100 m10390918744
+14
+14時台なので値下げ処理をスキップします。待機します。
+17 m72164822375
+14
+14時台なので値下げ処理をスキップします。待機します。
+28 m42942065109
+14
+14時台なので値下げ処理をスキップします。待機します。
+14 m85548797163
+15
+15時台なので値下げ処理をスキップします。待機します。
+102 m12714707924
+15
+15時台なので値下げ処理をスキップします。待機します。
+20 m76708060142
+15
+15時台なので値下げ処理をスキップします。待機します。
+120 m71198526305
+15
+15時台なので値下げ処理をスキップします。待機します。
+2 m54590266777
+16
+待機開始: 2025-08-18 16:12:51
+待機終了: 2025-08-18 16:40:15
+商品番号: m54590266777 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m54590266777
+
+DevTools listening on ws://127.0.0.1:53291/devtools/browser/78b8b3f4-243b-4670-8e64-173e6b727c1b
+値下げページを開きました: https://jp.mercari.com/sell/edit/m54590266777
+[13668:14184:0818/164025.269:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755502825.474403    9004 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 7200
+変更後の価格: 7100
+保存ボタン（変更する）をクリックしました。
+=================================
+47 m77095654907
+16
+待機開始: 2025-08-18 16:40:38
+待機終了: 2025-08-18 16:59:43
+商品番号: m77095654907 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m77095654907
+
+DevTools listening on ws://127.0.0.1:53435/devtools/browser/16a054dd-5f70-4463-93ae-8e2b6bc98fef
+値下げページを開きました: https://jp.mercari.com/sell/edit/m77095654907
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755503990.980005   13856 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[14084:12520:0818/165951.080:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 4080
+変更後の価格: 3980
+保存ボタン（変更する）をクリックしました。
+=================================
+8 m60717511021
+17
+待機開始: 2025-08-18 17:00:04
+待機終了: 2025-08-18 17:28:59
+商品番号: m60717511021 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m60717511021
+
+DevTools listening on ws://127.0.0.1:53610/devtools/browser/7688c262-ec27-4e9f-b80b-0583af53d212
+値下げページを開きました: https://jp.mercari.com/sell/edit/m60717511021
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755505747.362178   11924 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[14076:1796:0818/172907.429:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 4000
+変更後の価格: 3900
+保存ボタン（変更する）をクリックしました。
+=================================
+5 m40994043712
+17
+待機開始: 2025-08-18 17:29:20
+待機終了: 2025-08-18 17:57:35
+商品番号: m40994043712 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m40994043712
+
+DevTools listening on ws://127.0.0.1:53779/devtools/browser/cb3b0e6b-2fbb-4956-b5b0-315b5a304d1a
+値下げページを開きました: https://jp.mercari.com/sell/edit/m40994043712
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755507465.002751   11872 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[8172:9884:0818/175745.105:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 3600
+変更後の価格: 3500
+保存ボタン（変更する）をクリックしました。
+=================================
+13 m87049307719
+17
+待機開始: 2025-08-18 17:57:57
+待機終了: 2025-08-18 18:18:02
+商品番号: m87049307719 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m87049307719
+
+DevTools listening on ws://127.0.0.1:53947/devtools/browser/ff179d04-29e9-4bf5-9b21-2ecd7b90e734
+値下げページを開きました: https://jp.mercari.com/sell/edit/m87049307719
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755508693.779727   14064 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[10260:12964:0818/181813.876:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 7300
+変更後の価格: 7200
+保存ボタン（変更する）をクリックしました。
+=================================
+115 m68412115457
+18
+待機開始: 2025-08-18 18:18:23
+待機終了: 2025-08-18 18:46:08
+商品番号: m68412115457 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m68412115457
+
+DevTools listening on ws://127.0.0.1:54103/devtools/browser/f12d59bf-cc42-4d04-b0a4-1a23a12afcd8
+値下げページを開きました: https://jp.mercari.com/sell/edit/m68412115457
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755510378.081404    5176 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[4484:12780:0818/184618.143:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 8100
+変更後の価格: 8000
+保存ボタン（変更する）をクリックしました。
+=================================
+112 m88549393382
+18
+待機開始: 2025-08-18 18:46:29
+待機終了: 2025-08-18 19:10:31
+商品番号: m88549393382 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m88549393382
+
+DevTools listening on ws://127.0.0.1:54289/devtools/browser/f233abf4-e1f7-4475-994a-1f7a6666c408
+値下げページを開きました: https://jp.mercari.com/sell/edit/m88549393382
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755511842.329371    5540 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[15104:4904:0818/191042.425:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 4680
+変更後の価格: 4580
+保存ボタン（変更する）をクリックしました。
+=================================
+18 m49887147127
+19
+待機開始: 2025-08-18 19:10:53
+待機終了: 2025-08-18 19:40:32
+商品番号: m49887147127 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m49887147127
+
+DevTools listening on ws://127.0.0.1:54466/devtools/browser/285b926b-9e9e-47f3-89d4-039f0643eccd
+値下げページを開きました: https://jp.mercari.com/sell/edit/m49887147127
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755513641.740509   14152 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[7940:14192:0818/194041.822:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 6200
+変更後の価格: 6100
+保存ボタン（変更する）をクリックしました。
+=================================
+25 m19728011401
+19
+待機開始: 2025-08-18 19:40:53
+待機終了: 2025-08-18 20:00:14
+商品番号: m19728011401 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m19728011401
+
+DevTools listening on ws://127.0.0.1:54616/devtools/browser/39de2f54-b354-4c2f-a138-61df8a1c3a25
+値下げページを開きました: https://jp.mercari.com/sell/edit/m19728011401
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755514821.800274    5012 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[9276:6288:0818/200021.898:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: QUOTA_EXCEEDED
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 3080
+変更後の価格: 2980
+保存ボタン（変更する）をクリックしました。
+=================================
+71 m31260853542
+20
+待機開始: 2025-08-18 20:00:35
+待機終了: 2025-08-18 20:23:17
+商品番号: m31260853542 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m31260853542
+https://jp.mercari.com/sell/edit/m31260853542
+
+https://jp.mercari.com/sell/edit/m31260853542
+
+DevTools listening on ws://127.0.0.1:54778/devtools/browser/b37cbf23-679f-43c1-bb9e-798f9b0b7492
+値下げページを開きました: https://jp.mercari.com/sell/edit/m31260853542
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755516206.514913    2572 voice_transcription.cc:58] Registering VoiceTranscriptionCapability  
+[10060:12520:0818/202326.609:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 7800
+変更後の価格: 7700
+保存ボタン（変更する）をクリックしました。
+=================================
+6 m75438015427
+20
+待機開始: 2025-08-18 20:23:39
+待機終了: 2025-08-18 20:45:53
+商品番号: m75438015427 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m75438015427
+
+DevTools listening on ws://127.0.0.1:54954/devtools/browser/5e3a5f47-b265-446c-a14a-42438830b015
+値下げページを開きました: https://jp.mercari.com/sell/edit/m75438015427
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755517563.993025    9292 voice_transcription.cc:58] Registering VoiceTranscriptionCapability  
+[15312:13808:0818/204604.079:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 4200
+変更後の価格: 4100
+保存ボタン（変更する）をクリックしました。
+=================================
+48 m95675629387
+20
+待機開始: 2025-08-18 20:46:18
+待機終了: 2025-08-18 21:07:27
+商品番号: m95675629387 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m95675629387
+
+DevTools listening on ws://127.0.0.1:55113/devtools/browser/6a231092-9c29-47a9-b709-0d44f0b52a81
+値下げページを開きました: https://jp.mercari.com/sell/edit/m95675629387
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755518856.243297   10960 voice_transcription.cc:58] Registering VoiceTranscriptionCapability  
+[9884:9124:0818/210736.315:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+before価格取得失敗: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="price"]"}
+  (Session info: chrome=139.0.7258.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff7bec66b25+79621]
+        GetHandleVerifier [0x0x7ff7bec66b80+79712]
+        (No symbol) [0x0x7ff7be9fc0ea]
+        (No symbol) [0x0x7ff7bea52f56]
+        (No symbol) [0x0x7ff7bea5320c]
+        (No symbol) [0x0x7ff7beaa65b7]
+        (No symbol) [0x0x7ff7bea7b17f]
+        (No symbol) [0x0x7ff7beaa33d0]
+        (No symbol) [0x0x7ff7bea7af13]
+        (No symbol) [0x0x7ff7bea44151]
+        (No symbol) [0x0x7ff7bea44ee3]
+        GetHandleVerifier [0x0x7ff7bef2683d+2962461]
+        GetHandleVerifier [0x0x7ff7bef20b5d+2938685]
+        GetHandleVerifier [0x0x7ff7bef3f71d+3064573]
+        GetHandleVerifier [0x0x7ff7bec80c6e+186446]
+        GetHandleVerifier [0x0x7ff7bec88a3f+218655]
+        GetHandleVerifier [0x0x7ff7bec6f914+115956]
+        GetHandleVerifier [0x0x7ff7bec6fac9+116393]
+        GetHandleVerifier [0x0x7ff7bec55ef8+10968]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+10 m40355800790
+21
+待機開始: 2025-08-18 21:07:40
+待機終了: 2025-08-18 21:31:44
+商品番号: m40355800790 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m40355800790
+
+DevTools listening on ws://127.0.0.1:55225/devtools/browser/6d8c8dd6-022c-4569-a5ff-a2f9de130ea3
+値下げページを開きました: https://jp.mercari.com/sell/edit/m40355800790
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1755520312.848216   11908 voice_transcription.cc:58] Registering VoiceTranscriptionCapability  
+[13440:12784:0818/213152.957:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: QUOTA_EXCEEDED
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 3900
+変更後の価格: 3800
+保存ボタン（変更する）をクリックしました。
+[8880:13884:0818/213203.188:ERROR:net\socket\ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+[8880:13884:0818/213203.360:ERROR:net\socket\ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+[8880:13884:0818/213203.428:ERROR:net\socket\ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -101
+[8880:13884:0818/213203.585:ERROR:net\socket\ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -101
+[8880:13884:0818/213203.620:ERROR:net\socket\ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -101
+=================================
+[8880:13884:0818/213203.767:ERROR:net\socket\ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -101
+92 m36980445939
+21
+待機開始: 2025-08-18 21:32:06
+Traceback (most recent call last):
+  File "C:\Users\user\python\my-playwright-bot\exeNesage.py", line 136, in <module>
+    time.sleep(random.uniform(1100,1800))  # ランダムな待機時間 24分間隔
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

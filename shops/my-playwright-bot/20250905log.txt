@@ -1,0 +1,929 @@
+ GetHandleVerifier [0x0x7ff77f283d85+79397]
+        GetHandleVerifier [0x0x7ff77f283de0+79488]
+        (No symbol) [0x0x7ff77f02c0fa]
+        (No symbol) [0x0x7ff77f082fd6]
+        (No symbol) [0x0x7ff77f08328c]
+        (No symbol) [0x0x7ff77f0d6537]
+        (No symbol) [0x0x7ff77f0ab1df]
+        (No symbol) [0x0x7ff77f0d3344]
+        (No symbol) [0x0x7ff77f0aaf73]
+        (No symbol) [0x0x7ff77f0741b1]
+        (No symbol) [0x0x7ff77f074f43]
+        GetHandleVerifier [0x0x7ff77f54e1ed+3005069]
+        GetHandleVerifier [0x0x7ff77f54831d+2980797]
+        GetHandleVerifier [0x0x7ff77f567e0d+3110573]
+        GetHandleVerifier [0x0x7ff77f29d6de+184190]
+        GetHandleVerifier [0x0x7ff77f2a516f+215567]
+        GetHandleVerifier [0x0x7ff77f28c974+115220]
+        GetHandleVerifier [0x0x7ff77f28cb29+115657]
+        GetHandleVerifier [0x0x7ff77f273268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+5/97 5 42 m53920526437
+6
+待機開始: 2025-09-05 06:29:35
+待機終了: 2025-09-05 06:46:58
+商品番号: m53920526437 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m53920526437
+
+DevTools listening on ws://127.0.0.1:55964/devtools/browser/388f0adc-c58b-4525-a32f-8c06690fb0c6
+値下げページを開きました: https://jp.mercari.com/sell/edit/m53920526437
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757022428.555107   26200 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[24484:20200:0905/064708.657:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 3300
+変更後の価格: 3200
+保存ボタン（変更する）をクリックしました。
+=================================
+6/97 6 65 m36378782229
+6
+待機開始: 2025-09-05 06:47:19
+待機終了: 2025-09-05 07:14:45
+商品番号: m36378782229 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m36378782229
+
+DevTools listening on ws://127.0.0.1:59868/devtools/browser/d809b93b-61b3-42e3-a16a-766376520717
+値下げページを開きました: https://jp.mercari.com/sell/edit/m36378782229
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757024095.013688   25560 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[15776:23868:0905/071455.121:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 3080
+変更後の価格: 2980
+保存ボタン（変更する）をクリックしました。
+=================================
+7/97 7 30 m56425649506
+7
+待機開始: 2025-09-05 07:15:07
+待機終了: 2025-09-05 07:35:42
+商品番号: m56425649506 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m56425649506
+
+DevTools listening on ws://127.0.0.1:58639/devtools/browser/7bf47e41-68f2-4b82-b700-b2a258d7275e
+値下げページを開きました: https://jp.mercari.com/sell/edit/m56425649506
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757025352.954354   24176 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[23920:26604:0905/073553.058:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+before価格取得失敗: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="price"]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff77f283d85+79397]
+        GetHandleVerifier [0x0x7ff77f283de0+79488]
+        (No symbol) [0x0x7ff77f02c0fa]
+        (No symbol) [0x0x7ff77f082fd6]
+        (No symbol) [0x0x7ff77f08328c]
+        (No symbol) [0x0x7ff77f0d6537]
+        (No symbol) [0x0x7ff77f0ab1df]
+        (No symbol) [0x0x7ff77f0d3344]
+        (No symbol) [0x0x7ff77f0aaf73]
+        (No symbol) [0x0x7ff77f0741b1]
+        (No symbol) [0x0x7ff77f074f43]
+        GetHandleVerifier [0x0x7ff77f54e1ed+3005069]
+        GetHandleVerifier [0x0x7ff77f54831d+2980797]
+        GetHandleVerifier [0x0x7ff77f567e0d+3110573]
+        GetHandleVerifier [0x0x7ff77f29d6de+184190]
+        GetHandleVerifier [0x0x7ff77f2a516f+215567]
+        GetHandleVerifier [0x0x7ff77f28c974+115220]
+        GetHandleVerifier [0x0x7ff77f28cb29+115657]
+        GetHandleVerifier [0x0x7ff77f273268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+8/97 8 19 m48144644027
+7
+待機開始: 2025-09-05 07:35:58
+待機終了: 2025-09-05 07:55:38
+商品番号: m48144644027 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m48144644027
+
+DevTools listening on ws://127.0.0.1:59896/devtools/browser/316b911f-f182-404d-8a15-537eb4335b43
+値下げページを開きました: https://jp.mercari.com/sell/edit/m48144644027
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757026547.510488   23112 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[26512:21044:0905/075547.620:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+before価格取得失敗: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="price"]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff77f283d85+79397]
+        GetHandleVerifier [0x0x7ff77f283de0+79488]
+        (No symbol) [0x0x7ff77f02c0fa]
+        (No symbol) [0x0x7ff77f082fd6]
+        (No symbol) [0x0x7ff77f08328c]
+        (No symbol) [0x0x7ff77f0d6537]
+        (No symbol) [0x0x7ff77f0ab1df]
+        (No symbol) [0x0x7ff77f0d3344]
+        (No symbol) [0x0x7ff77f0aaf73]
+        (No symbol) [0x0x7ff77f0741b1]
+        (No symbol) [0x0x7ff77f074f43]
+        GetHandleVerifier [0x0x7ff77f54e1ed+3005069]
+        GetHandleVerifier [0x0x7ff77f54831d+2980797]
+        GetHandleVerifier [0x0x7ff77f567e0d+3110573]
+        GetHandleVerifier [0x0x7ff77f29d6de+184190]
+        GetHandleVerifier [0x0x7ff77f2a516f+215567]
+        GetHandleVerifier [0x0x7ff77f28c974+115220]
+        GetHandleVerifier [0x0x7ff77f28cb29+115657]
+        GetHandleVerifier [0x0x7ff77f273268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+9/97 9 58 m52453298430
+7
+待機開始: 2025-09-05 07:55:52
+待機終了: 2025-09-05 08:16:27
+商品番号: m52453298430 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m52453298430
+
+DevTools listening on ws://127.0.0.1:55087/devtools/browser/de04cf7d-436f-499e-976c-bbb800c737aa
+値下げページを開きました: https://jp.mercari.com/sell/edit/m52453298430
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757027795.156415   24292 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[21712:25124:0905/081635.250:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+before価格取得失敗: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="price"]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff77f283d85+79397]
+        GetHandleVerifier [0x0x7ff77f283de0+79488]
+        (No symbol) [0x0x7ff77f02c0fa]
+        (No symbol) [0x0x7ff77f082fd6]
+        (No symbol) [0x0x7ff77f08328c]
+        (No symbol) [0x0x7ff77f0d6537]
+        (No symbol) [0x0x7ff77f0ab1df]
+        (No symbol) [0x0x7ff77f0d3344]
+        (No symbol) [0x0x7ff77f0aaf73]
+        (No symbol) [0x0x7ff77f0741b1]
+        (No symbol) [0x0x7ff77f074f43]
+        GetHandleVerifier [0x0x7ff77f54e1ed+3005069]
+        GetHandleVerifier [0x0x7ff77f54831d+2980797]
+        GetHandleVerifier [0x0x7ff77f567e0d+3110573]
+        GetHandleVerifier [0x0x7ff77f29d6de+184190]
+        GetHandleVerifier [0x0x7ff77f2a516f+215567]
+        GetHandleVerifier [0x0x7ff77f28c974+115220]
+        GetHandleVerifier [0x0x7ff77f28cb29+115657]
+        GetHandleVerifier [0x0x7ff77f273268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+10/97 10 45 m87809583949
+8
+待機開始: 2025-09-05 08:16:41
+待機終了: 2025-09-05 08:34:07
+商品番号: m87809583949 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m87809583949
+
+DevTools listening on ws://127.0.0.1:58461/devtools/browser/d7f99f00-7b59-4653-88b6-a5178ed2369c
+値下げページを開きました: https://jp.mercari.com/sell/edit/m87809583949
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757028855.798992   20196 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[1940:23332:0905/083415.885:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 7100
+変更後の価格: 7000
+保存ボタン（変更する）をクリックしました。
+=================================
+11/97 11 21 m33435860277
+8
+待機開始: 2025-09-05 08:34:27
+待機終了: 2025-09-05 09:00:24
+商品番号: m33435860277 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m33435860277
+
+DevTools listening on ws://127.0.0.1:50987/devtools/browser/ed01aa0b-7db6-4d70-8daf-b2167520e231
+値下げページを開きました: https://jp.mercari.com/sell/edit/m33435860277
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757030436.681370   19508 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[20564:25956:0905/090036.770:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+before価格取得失敗: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="price"]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff77f283d85+79397]
+        GetHandleVerifier [0x0x7ff77f283de0+79488]
+        (No symbol) [0x0x7ff77f02c0fa]
+        (No symbol) [0x0x7ff77f082fd6]
+        (No symbol) [0x0x7ff77f08328c]
+        (No symbol) [0x0x7ff77f0d6537]
+        (No symbol) [0x0x7ff77f0ab1df]
+        (No symbol) [0x0x7ff77f0d3344]
+        (No symbol) [0x0x7ff77f0aaf73]
+        (No symbol) [0x0x7ff77f0741b1]
+        (No symbol) [0x0x7ff77f074f43]
+        GetHandleVerifier [0x0x7ff77f54e1ed+3005069]
+        GetHandleVerifier [0x0x7ff77f54831d+2980797]
+        GetHandleVerifier [0x0x7ff77f567e0d+3110573]
+        GetHandleVerifier [0x0x7ff77f29d6de+184190]
+        GetHandleVerifier [0x0x7ff77f2a516f+215567]
+        GetHandleVerifier [0x0x7ff77f28c974+115220]
+        GetHandleVerifier [0x0x7ff77f28cb29+115657]
+        GetHandleVerifier [0x0x7ff77f273268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+12/97 12 37 m27311989967
+9
+9時台なので値下げ処理をスキップします。待機します。
+13/97 13 56 m26411336394
+9
+9時台なので値下げ処理をスキップします。待機します。
+14/97 14 79 m77578553002
+9
+9時台なので値下げ処理をスキップします。待機します。
+15/97 15 48 m12042851731
+9
+9時台なので値下げ処理をスキップします。待機します。
+16/97 16 26 m62856000301
+10
+10時台なので値下げ処理をスキップします。待機します。
+17/97 17 85 m14221407979
+10
+10時台なので値下げ処理をスキップします。待機します。
+18/97 18 25 m12171113549
+10
+10時台なので値下げ処理をスキップします。待機します。
+19/97 19 89 m72797906967
+10
+10時台なので値下げ処理をスキップします。待機します。
+20/97 20 14 m58583898358
+11
+待機開始: 2025-09-05 11:00:41
+待機終了: 2025-09-05 11:27:36
+商品番号: m58583898358 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m58583898358
+
+DevTools listening on ws://127.0.0.1:63221/devtools/browser/ed574231-5595-4d67-b7e9-833b3e21cb2d
+値下げページを開きました: https://jp.mercari.com/sell/edit/m58583898358
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757039266.042768   25344 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[24104:23692:0905/112746.123:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+before価格取得失敗: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="price"]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff77f283d85+79397]
+        GetHandleVerifier [0x0x7ff77f283de0+79488]
+        (No symbol) [0x0x7ff77f02c0fa]
+        (No symbol) [0x0x7ff77f082fd6]
+        (No symbol) [0x0x7ff77f08328c]
+        (No symbol) [0x0x7ff77f0d6537]
+        (No symbol) [0x0x7ff77f0ab1df]
+        (No symbol) [0x0x7ff77f0d3344]
+        (No symbol) [0x0x7ff77f0aaf73]
+        (No symbol) [0x0x7ff77f0741b1]
+        (No symbol) [0x0x7ff77f074f43]
+        GetHandleVerifier [0x0x7ff77f54e1ed+3005069]
+        GetHandleVerifier [0x0x7ff77f54831d+2980797]
+        GetHandleVerifier [0x0x7ff77f567e0d+3110573]
+        GetHandleVerifier [0x0x7ff77f29d6de+184190]
+        GetHandleVerifier [0x0x7ff77f2a516f+215567]
+        GetHandleVerifier [0x0x7ff77f28c974+115220]
+        GetHandleVerifier [0x0x7ff77f28cb29+115657]
+        GetHandleVerifier [0x0x7ff77f273268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+21/97 21 71 m40940433036
+11
+待機開始: 2025-09-05 11:27:52
+待機終了: 2025-09-05 11:51:09
+商品番号: m40940433036 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m40940433036
+
+DevTools listening on ws://127.0.0.1:63002/devtools/browser/3b91fdc3-9058-4825-82a8-8cb7de4b9e60
+値下げページを開きました: https://jp.mercari.com/sell/edit/m40940433036
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757040679.441431   24948 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[2632:21148:0905/115119.585:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+before価格取得失敗: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="price"]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff77f283d85+79397]
+        GetHandleVerifier [0x0x7ff77f283de0+79488]
+        (No symbol) [0x0x7ff77f02c0fa]
+        (No symbol) [0x0x7ff77f082fd6]
+        (No symbol) [0x0x7ff77f08328c]
+        (No symbol) [0x0x7ff77f0d6537]
+        (No symbol) [0x0x7ff77f0ab1df]
+        (No symbol) [0x0x7ff77f0d3344]
+        (No symbol) [0x0x7ff77f0aaf73]
+        (No symbol) [0x0x7ff77f0741b1]
+        (No symbol) [0x0x7ff77f074f43]
+        GetHandleVerifier [0x0x7ff77f54e1ed+3005069]
+        GetHandleVerifier [0x0x7ff77f54831d+2980797]
+        GetHandleVerifier [0x0x7ff77f567e0d+3110573]
+        GetHandleVerifier [0x0x7ff77f29d6de+184190]
+        GetHandleVerifier [0x0x7ff77f2a516f+215567]
+        GetHandleVerifier [0x0x7ff77f28c974+115220]
+        GetHandleVerifier [0x0x7ff77f28cb29+115657]
+        GetHandleVerifier [0x0x7ff77f273268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+22/97 22 47 m60528526339
+11
+待機開始: 2025-09-05 11:51:24
+待機終了: 2025-09-05 12:09:13
+商品番号: m60528526339 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m60528526339
+
+DevTools listening on ws://127.0.0.1:56340/devtools/browser/78350957-059e-486b-8b05-b0d0113861c6
+値下げページを開きました: https://jp.mercari.com/sell/edit/m60528526339
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757041762.000572   20784 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[23880:20236:0905/120922.100:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+before価格取得失敗: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="price"]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff77f283d85+79397]
+        GetHandleVerifier [0x0x7ff77f283de0+79488]
+        (No symbol) [0x0x7ff77f02c0fa]
+        (No symbol) [0x0x7ff77f082fd6]
+        (No symbol) [0x0x7ff77f08328c]
+        (No symbol) [0x0x7ff77f0d6537]
+        (No symbol) [0x0x7ff77f0ab1df]
+        (No symbol) [0x0x7ff77f0d3344]
+        (No symbol) [0x0x7ff77f0aaf73]
+        (No symbol) [0x0x7ff77f0741b1]
+        (No symbol) [0x0x7ff77f074f43]
+        GetHandleVerifier [0x0x7ff77f54e1ed+3005069]
+        GetHandleVerifier [0x0x7ff77f54831d+2980797]
+        GetHandleVerifier [0x0x7ff77f567e0d+3110573]
+        GetHandleVerifier [0x0x7ff77f29d6de+184190]
+        GetHandleVerifier [0x0x7ff77f2a516f+215567]
+        GetHandleVerifier [0x0x7ff77f28c974+115220]
+        GetHandleVerifier [0x0x7ff77f28cb29+115657]
+        GetHandleVerifier [0x0x7ff77f273268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+23/97 23 52 m42048890392
+12
+12時台はピークタイムなので、待機時間をx分短縮します。
+1266.055349367301
+846.055349367301
+待機開始: 2025-09-05 12:09:28
+待機終了: 2025-09-05 12:23:34
+商品番号: m42048890392 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m42048890392
+
+DevTools listening on ws://127.0.0.1:57668/devtools/browser/dec489c1-0007-4244-98d0-f0d77ee992f2
+値下げページを開きました: https://jp.mercari.com/sell/edit/m42048890392
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757042624.322664   22540 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[22984:25264:0905/122344.431:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+before価格取得失敗: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="price"]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff77f283d85+79397]
+        GetHandleVerifier [0x0x7ff77f283de0+79488]
+        (No symbol) [0x0x7ff77f02c0fa]
+        (No symbol) [0x0x7ff77f082fd6]
+        (No symbol) [0x0x7ff77f08328c]
+        (No symbol) [0x0x7ff77f0d6537]
+        (No symbol) [0x0x7ff77f0ab1df]
+        (No symbol) [0x0x7ff77f0d3344]
+        (No symbol) [0x0x7ff77f0aaf73]
+        (No symbol) [0x0x7ff77f0741b1]
+        (No symbol) [0x0x7ff77f074f43]
+        GetHandleVerifier [0x0x7ff77f54e1ed+3005069]
+        GetHandleVerifier [0x0x7ff77f54831d+2980797]
+        GetHandleVerifier [0x0x7ff77f567e0d+3110573]
+        GetHandleVerifier [0x0x7ff77f29d6de+184190]
+        GetHandleVerifier [0x0x7ff77f2a516f+215567]
+        GetHandleVerifier [0x0x7ff77f28c974+115220]
+        GetHandleVerifier [0x0x7ff77f28cb29+115657]
+        GetHandleVerifier [0x0x7ff77f273268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+24/97 24 38 m68150095497
+12
+12時台はピークタイムなので、待機時間をx分短縮します。
+1261.2693379383704
+841.2693379383704
+待機開始: 2025-09-05 12:23:48
+待機終了: 2025-09-05 12:37:50
+商品番号: m68150095497 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m68150095497
+
+DevTools listening on ws://127.0.0.1:58280/devtools/browser/6424d592-a80f-48ea-aae3-ea7dd228b44e
+値下げページを開きました: https://jp.mercari.com/sell/edit/m68150095497
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757043480.134701   26136 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[20932:19700:0905/123800.242:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+before価格取得失敗: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="price"]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff77f283d85+79397]
+        GetHandleVerifier [0x0x7ff77f283de0+79488]
+        (No symbol) [0x0x7ff77f02c0fa]
+        (No symbol) [0x0x7ff77f082fd6]
+        (No symbol) [0x0x7ff77f08328c]
+        (No symbol) [0x0x7ff77f0d6537]
+        (No symbol) [0x0x7ff77f0ab1df]
+        (No symbol) [0x0x7ff77f0d3344]
+        (No symbol) [0x0x7ff77f0aaf73]
+        (No symbol) [0x0x7ff77f0741b1]
+        (No symbol) [0x0x7ff77f074f43]
+        GetHandleVerifier [0x0x7ff77f54e1ed+3005069]
+        GetHandleVerifier [0x0x7ff77f54831d+2980797]
+        GetHandleVerifier [0x0x7ff77f567e0d+3110573]
+        GetHandleVerifier [0x0x7ff77f29d6de+184190]
+        GetHandleVerifier [0x0x7ff77f2a516f+215567]
+        GetHandleVerifier [0x0x7ff77f28c974+115220]
+        GetHandleVerifier [0x0x7ff77f28cb29+115657]
+        GetHandleVerifier [0x0x7ff77f273268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+25/97 25 12 m10283071895
+12
+12時台はピークタイムなので、待機時間をx分短縮します。
+1559.0432805382777
+1139.0432805382777
+待機開始: 2025-09-05 12:38:05
+待機終了: 2025-09-05 12:57:04
+商品番号: m10283071895 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m10283071895
+
+DevTools listening on ws://127.0.0.1:50955/devtools/browser/e98d121f-ef16-4d04-94be-8b92ce4aa65b
+値下げページを開きました: https://jp.mercari.com/sell/edit/m10283071895
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757044633.876682   21508 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[18212:26288:0905/125713.983:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+before価格取得失敗: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="price"]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff77f283d85+79397]
+        GetHandleVerifier [0x0x7ff77f283de0+79488]
+        (No symbol) [0x0x7ff77f02c0fa]
+        (No symbol) [0x0x7ff77f082fd6]
+        (No symbol) [0x0x7ff77f08328c]
+        (No symbol) [0x0x7ff77f0d6537]
+        (No symbol) [0x0x7ff77f0ab1df]
+        (No symbol) [0x0x7ff77f0d3344]
+        (No symbol) [0x0x7ff77f0aaf73]
+        (No symbol) [0x0x7ff77f0741b1]
+        (No symbol) [0x0x7ff77f074f43]
+        GetHandleVerifier [0x0x7ff77f54e1ed+3005069]
+        GetHandleVerifier [0x0x7ff77f54831d+2980797]
+        GetHandleVerifier [0x0x7ff77f567e0d+3110573]
+        GetHandleVerifier [0x0x7ff77f29d6de+184190]
+        GetHandleVerifier [0x0x7ff77f2a516f+215567]
+        GetHandleVerifier [0x0x7ff77f28c974+115220]
+        GetHandleVerifier [0x0x7ff77f28cb29+115657]
+        GetHandleVerifier [0x0x7ff77f273268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+26/97 26 4 m95907398887
+12
+12時台はピークタイムなので、待機時間をx分短縮します。
+1042.5068751866709
+622.5068751866709
+待機開始: 2025-09-05 12:57:18
+待機終了: 2025-09-05 13:07:41
+商品番号: m95907398887 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m95907398887
+
+DevTools listening on ws://127.0.0.1:60330/devtools/browser/42ef38ff-15e0-477d-a4a7-8d4a1725803b
+値下げページを開きました: https://jp.mercari.com/sell/edit/m95907398887
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757045271.416742   16264 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[5076:15280:0905/130751.525:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+before価格取得失敗: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="price"]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff77f283d85+79397]
+        GetHandleVerifier [0x0x7ff77f283de0+79488]
+        (No symbol) [0x0x7ff77f02c0fa]
+        (No symbol) [0x0x7ff77f082fd6]
+        (No symbol) [0x0x7ff77f08328c]
+        (No symbol) [0x0x7ff77f0d6537]
+        (No symbol) [0x0x7ff77f0ab1df]
+        (No symbol) [0x0x7ff77f0d3344]
+        (No symbol) [0x0x7ff77f0aaf73]
+        (No symbol) [0x0x7ff77f0741b1]
+        (No symbol) [0x0x7ff77f074f43]
+        GetHandleVerifier [0x0x7ff77f54e1ed+3005069]
+        GetHandleVerifier [0x0x7ff77f54831d+2980797]
+        GetHandleVerifier [0x0x7ff77f567e0d+3110573]
+        GetHandleVerifier [0x0x7ff77f29d6de+184190]
+        GetHandleVerifier [0x0x7ff77f2a516f+215567]
+        GetHandleVerifier [0x0x7ff77f28c974+115220]
+        GetHandleVerifier [0x0x7ff77f28cb29+115657]
+        GetHandleVerifier [0x0x7ff77f273268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+27/97 27 11 m13905493509
+13
+待機開始: 2025-09-05 13:07:56
+待機終了: 2025-09-05 13:26:43
+商品番号: m13905493509 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m13905493509
+
+DevTools listening on ws://127.0.0.1:52953/devtools/browser/3815f7ba-cfaa-432c-b5e3-849e56f14afc
+値下げページを開きました: https://jp.mercari.com/sell/edit/m13905493509
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757046413.149003   25496 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[24388:25048:0905/132653.253:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 7700
+変更後の価格: 7600
+保存ボタン（変更する）をクリックしました。
+=================================
+28/97 28 77 m76377256685
+13
+待機開始: 2025-09-05 13:27:05
+待機終了: 2025-09-05 13:53:05
+商品番号: m76377256685 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m76377256685
+
+DevTools listening on ws://127.0.0.1:64829/devtools/browser/ac94f104-47a6-483c-ba00-8e3bab18d747
+値下げページを開きました: https://jp.mercari.com/sell/edit/m76377256685
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757047994.698666    4312 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[14008:20572:0905/135314.803:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+before価格取得失敗: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="price"]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff77f283d85+79397]
+        GetHandleVerifier [0x0x7ff77f283de0+79488]
+        (No symbol) [0x0x7ff77f02c0fa]
+        (No symbol) [0x0x7ff77f082fd6]
+        (No symbol) [0x0x7ff77f08328c]
+        (No symbol) [0x0x7ff77f0d6537]
+        (No symbol) [0x0x7ff77f0ab1df]
+        (No symbol) [0x0x7ff77f0d3344]
+        (No symbol) [0x0x7ff77f0aaf73]
+        (No symbol) [0x0x7ff77f0741b1]
+        (No symbol) [0x0x7ff77f074f43]
+        GetHandleVerifier [0x0x7ff77f54e1ed+3005069]
+        GetHandleVerifier [0x0x7ff77f54831d+2980797]
+        GetHandleVerifier [0x0x7ff77f567e0d+3110573]
+        GetHandleVerifier [0x0x7ff77f29d6de+184190]
+        GetHandleVerifier [0x0x7ff77f2a516f+215567]
+        GetHandleVerifier [0x0x7ff77f28c974+115220]
+        GetHandleVerifier [0x0x7ff77f28cb29+115657]
+        GetHandleVerifier [0x0x7ff77f273268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+29/97 29 55 m38662524198
+13
+待機開始: 2025-09-05 13:53:19
+待機終了: 2025-09-05 14:18:03
+商品番号: m38662524198 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m38662524198
+
+DevTools listening on ws://127.0.0.1:52747/devtools/browser/0bdb79d6-25e9-422c-8303-52f4adc8106d
+値下げページを開きました: https://jp.mercari.com/sell/edit/m38662524198
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757049491.997343   25228 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[20440:19784:0905/141812.082:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+before価格取得失敗: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="price"]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff77f283d85+79397]
+        GetHandleVerifier [0x0x7ff77f283de0+79488]
+        (No symbol) [0x0x7ff77f02c0fa]
+        (No symbol) [0x0x7ff77f082fd6]
+        (No symbol) [0x0x7ff77f08328c]
+        (No symbol) [0x0x7ff77f0d6537]
+        (No symbol) [0x0x7ff77f0ab1df]
+        (No symbol) [0x0x7ff77f0d3344]
+        (No symbol) [0x0x7ff77f0aaf73]
+        (No symbol) [0x0x7ff77f0741b1]
+        (No symbol) [0x0x7ff77f074f43]
+        GetHandleVerifier [0x0x7ff77f54e1ed+3005069]
+        GetHandleVerifier [0x0x7ff77f54831d+2980797]
+        GetHandleVerifier [0x0x7ff77f567e0d+3110573]
+        GetHandleVerifier [0x0x7ff77f29d6de+184190]
+        GetHandleVerifier [0x0x7ff77f2a516f+215567]
+        GetHandleVerifier [0x0x7ff77f28c974+115220]
+        GetHandleVerifier [0x0x7ff77f28cb29+115657]
+        GetHandleVerifier [0x0x7ff77f273268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+30/97 30 1 m47333616184
+14
+14時台なので値下げ処理をスキップします。待機します。
+31/97 31 76 m77157238588
+14
+14時台なので値下げ処理をスキップします。待機します。
+32/97 32 81 m12569778939
+14
+14時台なので値下げ処理をスキップします。待機します。
+33/97 33 88 m57974775228
+15
+15時台なので値下げ処理をスキップします。待機します。
+34/97 34 62 m89549395883
+15
+15時台なので値下げ処理をスキップします。待機します。
+35/97 35 22 m85313020745
+15
+15時台なので値下げ処理をスキップします。待機します。
+36/97 36 8 m49887147127
+15
+15時台なので値下げ処理をスキップします。待機します。
+37/97 37 35 m23857076287
+16
+待機開始: 2025-09-05 16:03:16
+待機終了: 2025-09-05 16:19:59
+商品番号: m23857076287 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m23857076287
+
+DevTools listening on ws://127.0.0.1:50950/devtools/browser/170d54ca-f03e-42aa-b1f7-98fb5a788684
+値下げページを開きました: https://jp.mercari.com/sell/edit/m23857076287
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757056811.088685   13404 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[25940:7468:0905/162011.149:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 5700
+変更後の価格: 5600
+保存ボタン（変更する）をクリックしました。
+=================================
+38/97 38 97 m81031686475
+16
+待機開始: 2025-09-05 16:20:29
+待機終了: 2025-09-05 16:41:43
+商品番号: m81031686475 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m81031686475
+
+DevTools listening on ws://127.0.0.1:58051/devtools/browser/94ba7b11-59b3-456a-bd7d-edb48128270e
+値下げページを開きました: https://jp.mercari.com/sell/edit/m81031686475
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757058114.300901   24008 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[20548:6264:0905/164154.393:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+before価格取得失敗: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="price"]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff7df583d85+79397]
+        GetHandleVerifier [0x0x7ff7df583de0+79488]
+        (No symbol) [0x0x7ff7df32c0fa]
+        (No symbol) [0x0x7ff7df382fd6]
+        (No symbol) [0x0x7ff7df38328c]
+        (No symbol) [0x0x7ff7df3d6537]
+        (No symbol) [0x0x7ff7df3ab1df]
+        (No symbol) [0x0x7ff7df3d3344]
+        (No symbol) [0x0x7ff7df3aaf73]
+        (No symbol) [0x0x7ff7df3741b1]
+        (No symbol) [0x0x7ff7df374f43]
+        GetHandleVerifier [0x0x7ff7df84e1ed+3005069]
+        GetHandleVerifier [0x0x7ff7df84831d+2980797]
+        GetHandleVerifier [0x0x7ff7df867e0d+3110573]
+        GetHandleVerifier [0x0x7ff7df59d6de+184190]
+        GetHandleVerifier [0x0x7ff7df5a516f+215567]
+        GetHandleVerifier [0x0x7ff7df58c974+115220]
+        GetHandleVerifier [0x0x7ff7df58cb29+115657]
+        GetHandleVerifier [0x0x7ff7df573268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+39/97 39 54 m30996882126
+16
+待機開始: 2025-09-05 16:41:59
+待機終了: 2025-09-05 17:09:24
+商品番号: m30996882126 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m30996882126
+
+DevTools listening on ws://127.0.0.1:62556/devtools/browser/41cf6f19-e19b-4b46-87b2-176c67957aec
+値下げページを開きました: https://jp.mercari.com/sell/edit/m30996882126
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757059773.240418   19508 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[25516:9684:0905/170933.347:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+before価格取得失敗: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="price"]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff7df583d85+79397]
+        GetHandleVerifier [0x0x7ff7df583de0+79488]
+        (No symbol) [0x0x7ff7df32c0fa]
+        (No symbol) [0x0x7ff7df382fd6]
+        (No symbol) [0x0x7ff7df38328c]
+        (No symbol) [0x0x7ff7df3d6537]
+        (No symbol) [0x0x7ff7df3ab1df]
+        (No symbol) [0x0x7ff7df3d3344]
+        (No symbol) [0x0x7ff7df3aaf73]
+        (No symbol) [0x0x7ff7df3741b1]
+        (No symbol) [0x0x7ff7df374f43]
+        GetHandleVerifier [0x0x7ff7df84e1ed+3005069]
+        GetHandleVerifier [0x0x7ff7df84831d+2980797]
+        GetHandleVerifier [0x0x7ff7df867e0d+3110573]
+        GetHandleVerifier [0x0x7ff7df59d6de+184190]
+        GetHandleVerifier [0x0x7ff7df5a516f+215567]
+        GetHandleVerifier [0x0x7ff7df58c974+115220]
+        GetHandleVerifier [0x0x7ff7df58cb29+115657]
+        GetHandleVerifier [0x0x7ff7df573268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+40/97 40 86 m96572598149
+17
+待機開始: 2025-09-05 17:09:38
+待機終了: 2025-09-05 17:25:28
+商品番号: m96572598149 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m96572598149
+
+DevTools listening on ws://127.0.0.1:52345/devtools/browser/61b7e577-c3d7-46a6-88ca-a33a65eb8843
+値下げページを開きました: https://jp.mercari.com/sell/edit/m96572598149
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757060738.576060   22048 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[26056:20900:0905/172538.688:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 6500
+変更後の価格: 6400
+保存ボタン（変更する）をクリックしました。
+=================================
+41/97 41 33 m45295543112
+17
+待機開始: 2025-09-05 17:25:49
+待機終了: 2025-09-05 17:50:24
+商品番号: m45295543112 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m45295543112
+
+DevTools listening on ws://127.0.0.1:53963/devtools/browser/be7d09c5-4829-44bc-8121-0636e501ca3d
+値下げページを開きました: https://jp.mercari.com/sell/edit/m45295543112
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757062234.597747   21732 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[24308:11536:0905/175034.715:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 6000
+変更後の価格: 5900
+保存ボタン（変更する）をクリックしました。
+=================================
+42/97 42 16 m13812259475
+17
+待機開始: 2025-09-05 17:50:47
+待機終了: 2025-09-05 18:13:49
+商品番号: m13812259475 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m13812259475
+
+DevTools listening on ws://127.0.0.1:58017/devtools/browser/948e7970-7970-445a-be50-b522bc09a898
+DevTools listening on ws://127.0.0.1:58017/devtools/browser/948e7970-7970-445a-be50-b522bc09a898  
+値下げページを開きました: https://jp.mercari.com/sell/edit/m13812259475
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757063639.354506   22616 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[22200:24604:0905/181359.452:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: QUOTA_EXCEEDED
+Created TensorFlow Lite XNNPACK delegate for CPU.
+現在の価格: 7800
+変更後の価格: 7700
+保存ボタン（変更する）をクリックしました。
+=================================
+43/97 43 13 m51545372010
+18
+待機開始: 2025-09-05 18:14:16
+待機終了: 2025-09-05 18:31:04
+商品番号: m51545372010 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m51545372010
+
+DevTools listening on ws://127.0.0.1:58522/devtools/browser/4dbe3860-c4c6-4b2a-af34-8a6aeda1e83d  
+値下げページを開きました: https://jp.mercari.com/sell/edit/m51545372010
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757064676.558624   26052 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+[18476:4316:0905/183116.630:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+before価格取得失敗: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="price"]"}
+  (Session info: chrome=139.0.7258.157); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff7df583d85+79397]
+        GetHandleVerifier [0x0x7ff7df583de0+79488]
+        (No symbol) [0x0x7ff7df32c0fa]
+        (No symbol) [0x0x7ff7df382fd6]
+        (No symbol) [0x0x7ff7df38328c]
+        (No symbol) [0x0x7ff7df3d6537]
+        (No symbol) [0x0x7ff7df3ab1df]
+        (No symbol) [0x0x7ff7df3d3344]
+        (No symbol) [0x0x7ff7df3aaf73]
+        (No symbol) [0x0x7ff7df3741b1]
+        (No symbol) [0x0x7ff7df374f43]
+        GetHandleVerifier [0x0x7ff7df84e1ed+3005069]
+        GetHandleVerifier [0x0x7ff7df84831d+2980797]
+        GetHandleVerifier [0x0x7ff7df867e0d+3110573]
+        GetHandleVerifier [0x0x7ff7df59d6de+184190]
+        GetHandleVerifier [0x0x7ff7df5a516f+215567]
+        GetHandleVerifier [0x0x7ff7df58c974+115220]
+        GetHandleVerifier [0x0x7ff7df58cb29+115657]
+        GetHandleVerifier [0x0x7ff7df573268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+現在の価格: None
+価格取得に失敗したため値下げできませんでした。
+=================================
+44/97 44 69 m75706848352
+18
+待機開始: 2025-09-05 18:31:21
+待機終了: 2025-09-05 18:56:22
+商品番号: m75706848352 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m75706848352
+この商品の値下げ処理でエラーが発生しました（スキップします）: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+        GetHandleVerifier [0x0x7ff7fe0d3d85+79397]
+        GetHandleVerifier [0x0x7ff7fe0d3de0+79488]
+        (No symbol) [0x0x7ff7fde7c0fa]
+        (No symbol) [0x0x7ff7fdebb62f]
+        (No symbol) [0x0x7ff7fdeb53f5]
+        (No symbol) [0x0x7ff7fdf08bde]
+        (No symbol) [0x0x7ff7fdf08370]
+        (No symbol) [0x0x7ff7fdefaf73]
+        (No symbol) [0x0x7ff7fdec41b1]
+        (No symbol) [0x0x7ff7fdec4f43]
+        GetHandleVerifier [0x0x7ff7fe39e1ed+3005069]
+        GetHandleVerifier [0x0x7ff7fe39831d+2980797]
+        GetHandleVerifier [0x0x7ff7fe3b7e0d+3110573]
+        GetHandleVerifier [0x0x7ff7fe0ed6de+184190]
+        GetHandleVerifier [0x0x7ff7fe0f516f+215567]
+        GetHandleVerifier [0x0x7ff7fe0dc974+115220]
+        GetHandleVerifier [0x0x7ff7fe0dcb29+115657]
+        GetHandleVerifier [0x0x7ff7fe0c3268+11016]
+        BaseThreadInitThunk [0x0x7ffb4f2a259d+29]
+        RtlUserThreadStart [0x0x7ffb504aaf78+40]
+
+45/97 45 73 m46685008107
+18
+待機開始: 2025-09-05 18:56:26
+待機終了: 2025-09-05 19:21:47
+商品番号: m46685008107 の値下げ処理を実行中...
+https://jp.mercari.com/sell/edit/m46685008107
+
+DevTools listening on ws://127.0.0.1:58129/devtools/browser/01471344-8fa6-4a28-9f6e-04328e5709fd
+
+DevTools listening on ws://127.0.0.1:58129/devtools/browser/01471344-8fa6-4a28-9f6e-04328e5709fd
+DevTools listening on ws://127.0.0.1:58129/devtools/browser/01471344-8fa6-4a28-9f6e-04328e5709fd  
+値下げページを開きました: https://jp.mercari.com/sell/edit/m46685008107
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1757067716.368806    2404 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[25208:18796:0905/192157.423:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+現在の価格: 6080
+変更後の価格: 5980
+保存ボタン（変更する）をクリックしました。
+=================================
+46/97 46 57 m97417418379
+19
+待機開始: 2025-09-05 19:22:09

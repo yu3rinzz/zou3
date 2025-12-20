@@ -26,3 +26,12 @@ Thumbs.db
 # VS Code
 .vscode/
 
+###
+
+# Python virtual environment (custom)
+mywebenv/
+
+# Playwright outputs (optional but common)
+playwright-report/
+test-results/
+
