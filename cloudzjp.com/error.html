@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ページが見つかりません | CloudZ</title>
+    <meta name="robots" content="noindex">
+    <link rel="icon" href="img/favicon.png" type="image/png">
+    
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Noto+Serif+JP:wght@400;600&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+
+    <script>
+    tailwind.config = {
+        theme: {
+            extend: {
+                colors: {
+                    'cloudz-green': '#16a34a',       /* メインの緑色 */
+                    'cloudz-dark': '#111827',        /* 暗い文字色 */
+                    'cloudz-deep': '#064e3b',        /* 深い緑色 */
+                    'cloudz-bg': '#f8f9fa',          /* 背景色 */
+                    'cloudz-light-green': '#f0fdf4', /* 薄い緑（背景用） */
+                    'cloudz-accent-green': '#dcfce7',/* アクセントの薄緑 */
+                },
+                fontFamily: {
+                    sans: ['"Noto Sans JP"', 'sans-serif'],
+                    serif: ['"Noto Serif JP"', 'serif'],
+                    en: ['"Playfair Display"', 'serif'],
+                }
+            }
+        }
+    }
+    </script>
+</head>
+
+<body class="font-sans antialiased selection:bg-cloudz-green selection:text-white error-bg">
+
+    <header class="fixed w-full top-0 z-50 pt-4 px-4">
+        <div class="max-w-7xl mx-auto glass-panel rounded-full px-8 h-20 flex justify-between items-center">
+            <a href="index.html" class="flex items-center hover:opacity-70 transition duration-300">
+                <img src="img/logo.png" alt="CloudZ" class="h-10 w-auto">
+            </a>
+            
+            <nav class="hidden md:flex gap-8 text-xs tracking-widest font-bold text-gray-600 items-center">
+                <a href="index.html#infra" class="hover:text-cloudz-green transition duration-300">クラウドインフラ事業</a>
+                <a href="index.html#sales" class="hover:text-cloudz-green transition duration-300">物販・EC事業</a>
+                <a href="index.html#about" class="hover:text-cloudz-green transition duration-300">代表挨拶</a>
+                <a href="index.html#contact" class="px-6 py-2.5 bg-cloudz-green text-white rounded-full hover:bg-green-700 transition duration-300 shadow-md">お問い合わせ</a>
+            </nav>
+            <a href="index.html" class="md:hidden text-gray-600"><i data-lucide="home" class="w-6 h-6"></i></a>
+        </div>
+    </header>
+
+    <main class="flex-grow flex items-center justify-center px-4 pt-32 pb-16">
+        <div class="max-w-lg w-full text-center fade-in-section is-visible">
+            
+            <div class="glass-panel p-12 rounded-3xl border-t-4 border-cloudz-green shadow-xl relative overflow-hidden">
+                <div class="absolute -top-10 -right-10 w-32 h-32 bg-cloudz-green/10 rounded-full blur-2xl"></div>
+                <div class="absolute -bottom-10 -left-10 w-32 h-32 bg-cloudz-green/10 rounded-full blur-2xl"></div>
+
+                <p class="text-cloudz-green font-en font-bold tracking-widest text-sm mb-4 uppercase">
+                    404 Not Found
+                </p>
+                
+                <h1 class="text-6xl md:text-8xl font-serif text-gray-800 mb-6 font-medium">
+                    404
+                </h1>
+                
+                <h2 class="text-xl font-bold text-gray-700 mb-6">
+                    ページが見つかりませんでした。
+                </h2>
+                
+                <p class="text-gray-500 text-sm mb-10 leading-relaxed">
+                    お探しのページは、移動または削除された可能性があります。<br>
+                    URLをご確認いただくか、トップページへお戻りください。
+                </p>
+
+                <a href="index.html" class="inline-flex items-center gap-2 px-8 py-4 bg-cloudz-green text-white rounded-full font-bold shadow-lg hover:bg-green-700 hover:shadow-xl transition duration-300 transform hover:-translate-y-1">
+                    <i data-lucide="arrow-left" class="w-4 h-4"></i>
+                    トップページへ戻る
+                </a>
+            </div>
+
+        </div>
+    </main>
+
+    <footer class="bg-gray-900 text-white py-12 mt-auto">
+        <div class="max-w-7xl mx-auto px-4 flex flex-col items-center gap-8">
+            <a href="index.html" class="flex items-center justify-center gap-3 hover:opacity-80 transition duration-300">
+                <img src="img/logo.png" alt="CloudZ" class="h-12 w-auto">
+            </a>
+            
+            <p class="text-[10px] text-gray-500 tracking-widest mt-4">© 2025 CloudZ All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

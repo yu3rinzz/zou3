@@ -1,0 +1,145 @@
+@charset "UTF-8";
+
+/* ==========================================================================
+    基本設定・フォント
+   ========================================================================== */
+body {
+    background-color: #f8f9fa;
+    color: #333;
+    line-height: 1.8;
+    /* フォントはHTML側のTailwind設定とGoogle Fontsで読み込んでいます */
+}
+
+html {
+    scroll-behavior: smooth; /* ページ内リンクでスムーズに移動 */
+}
+
+/* ==========================================================================
+    共通コンポーネント
+   ========================================================================== */
+
+/* ガラスのような半透明パネル (.glass-panel) */
+.glass-panel {
+    background: rgba(255, 255, 255, 0.9);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
+}
+
+/* 白いカード (.card-white) - インフラ事業などで使用 */
+.card-white {
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    transition: all 0.3s ease;
+}
+
+/* カードホバー時の挙動 */
+.card-white:hover {
+    transform: translateY(-5px); /* 少し浮き上がる */
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    border-color: #16a34a; /* 緑色の枠線に変化 */
+}
+
+/* ==========================================================================
+    背景画像設定
+    ※cssフォルダから見るため、パスは '../img/ファイル名' になります
+   ========================================================================== */
+
+/* ヒーローセクション (.hero-bg) */
+.hero-bg {
+    background-image: url('../img/fv-bg.jpg'); 
+    background-size: cover;
+    background-position: center;
+}
+
+/* コンセプトセクション (.concept-bg) */
+.concept-bg {
+    background-image: url('../img/concept-bg.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+
+/* インフラ事業右側のイメージ画像 (.it-image-bg) */
+.it-image-bg {
+    background-image: url('../img/it.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+/* お問い合わせセクション (.contact-bg) */
+.contact-bg {
+    background-image: url('../img/contact-bg.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+/* 404エラーページ (.error-bg) */
+.error-bg {
+    background-image: 
+        radial-gradient(at 0% 0%, hsla(142,60%,95%,1) 0px, transparent 50%),
+        radial-gradient(at 100% 100%, hsla(142,60%,95%,1) 0px, transparent 50%);
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ==========================================================================
+    アニメーション設定
+   ========================================================================== */
+
+/* ふわっと浮き上がるアニメーション（スクロール時） (.fade-in-section) */
+.fade-in-section {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 1s ease-out, transform 1s ease-out;
+    will-change: opacity, transform;
+}
+.fade-in-section.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* ヒーローセクション読み込み時のアニメーション (.animate-hero) */
+@keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+.animate-hero {
+    opacity: 0;
+    animation: fadeInUp 1s ease-out forwards;
+}
+
+/* アニメーションの遅延設定 */
+.delay-100 { animation-delay: 0.1s; }
+.delay-300 { animation-delay: 0.3s; }
+.delay-500 { animation-delay: 0.5s; }
+.delay-700 { animation-delay: 0.7s; }
+
+/* スクロールダウン矢印のバウンドアニメーション (.animate-bounce-slow) */
+@keyframes bounce {
+    0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(0.8,0,1,1); }
+    50% { transform: translateY(0); animation-timing-function: cubic-bezier(0,0,0.2,1); }
+}
+.animate-bounce-slow {
+    animation: bounce 2s infinite;
+}
+
+/* ==========================================================================
+    物販画像の設定
+   ========================================================================== */
+
+/* 画像ホバー時のズーム効果 (.img-hover-zoom) */
+.img-hover-zoom { overflow: hidden; }
+.img-hover-zoom img { transition: transform 0.7s ease; }
+.img-hover-zoom:hover img { transform: scale(1.1); }
+
+/* ==========================================================================
+    モーダル（拡大表示）の設定
+   ========================================================================== */
+.modal.is-open {
+    display: flex; /* hiddenクラスを上書きして表示 */
+    opacity: 1;    /* フェードイン */
+}
